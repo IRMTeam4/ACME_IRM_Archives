@@ -7,7 +7,7 @@ Note: To update content for this project site use the [editor on GitHub](https:/
 ## Project Reports
 
 - Initial Project Status Report: [link](https://irmteam4.github.io/ACME_IRM_Project_Status_Report.pdf)
-- Application Recovery Framework: [link](https://irmteam4.github.io/ARP.pdf)
+- Application Recovery Framework: [link](https://irmteam4.github.io/IRM_GRP4_ApplicationRecoveryPlan.pdf)
 
 
 ## Assessment Data
