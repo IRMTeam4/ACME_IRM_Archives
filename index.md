@@ -5,7 +5,14 @@ ACME Enterprise Resource Planning implementation project data archives.
 Note: To update content for thsi project site use the [editor on GitHub](https://github.com/IRMTeam4/ACME_IRM_Archives/edit/gh-pages/index.md).
 
 ## Project Reports
-Initial Project Status Report [link](https://irmteam4.github.io/ACME_IRM_Project_Status_Report.pdf)
+- Bulleted
+Initial Project Status Report: [link](https://irmteam4.github.io/ACME_IRM_Project_Status_Report.pdf)
+Application Recovery Framework: [link](https://irmteam4.github.io/ARP.pdf)
+
+
+## Assessment Data
+-Bulleted
+ACME ERM Workbook: [link](https://irmteam4.github.io/Risk_Identification_Tables_with Controls_master.xlsx)
 
 
 ### Markdown
