@@ -2,7 +2,7 @@
 
 ACME Enterprise Resource Planning implementation project data archives. 
 
-Note: To update content for thsi project site use the [editor on GitHub](https://github.com/IRMTeam4/ACME_IRM_Archives/edit/gh-pages/index.md).
+Note: To update content for this project site use the [editor on GitHub](https://github.com/IRMTeam4/ACME_IRM_Archives/edit/gh-pages/index.md).
 
 ## Project Reports
 
