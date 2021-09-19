@@ -12,7 +12,7 @@ Note: To update content for thsi project site use the [editor on GitHub](https:/
 
 ## Assessment Data
 
-- ACME ERM Workbook: [link](https://irmteam4.github.io/Risk_Identification_Tables_with Controls_master.xlsx)
+- ACME ERM Workbook: [link](https://irmteam4.github.io/Risk_Identification_Tables_with%20Controls_master.xlsx)
 - ACME ERM Risk Summary: [link](https://irmteam4.github.io/ACME_ERM_Risk_Summary.xlsx)
 
 
