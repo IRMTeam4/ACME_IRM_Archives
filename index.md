@@ -13,6 +13,7 @@ Application Recovery Framework: [link](https://irmteam4.github.io/ARP.pdf)
 ## Assessment Data
 -Bulleted
 ACME ERM Workbook: [link](https://irmteam4.github.io/Risk_Identification_Tables_with Controls_master.xlsx)
+ACME ERM Risk Summary: [link](https://irmteam4.github.io/ACME_ERM_Risk_Summary.xlsx)
 
 
 ### Markdown
