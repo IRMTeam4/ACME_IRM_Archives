@@ -1,8 +1,8 @@
 ## IRM_PCOM7E 202108 Team 4 Project page
 
-You can use the [editor on GitHub](https://github.com/IRMTeam4/ACME_IRM_Archives/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ACME Enterprise Resource Planning implementation project data archives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note: To update content for thsi project site use the [editor on GitHub](https://github.com/IRMTeam4/ACME_IRM_Archives/edit/gh-pages/index.md).
 
 ### Markdown
 
