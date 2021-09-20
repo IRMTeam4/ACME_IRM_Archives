@@ -7,6 +7,7 @@ ACME Enterprise Resource Planning implementation project data archives.
 
 - Initial Project Status Report: [link](https://irmteam4.github.io/ACME_IRM_Project_Status_Report.pdf)
 - Application Recovery Framework: [link](https://irmteam4.github.io/IRM_GRP4_ApplicationRecoveryPlan.pdf)
+- Project Meeting Notes: [link](https://irmteam4.github.io/TEam4_Meeting_notes.pdf)
 
 
 ## Assessment Data
